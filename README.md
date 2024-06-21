@@ -1,6 +1,6 @@
 # Terbilang-TS - Indonesian Number to Words Converter
 
-`terbilang-ts` is a TypeScript library that converts numbers into words in Indonesian. This library is highly useful for applications that require a textual representation of numbers, such as financial reporting, check writing systems, and more.
+`angka-terbilang-ts` is a TypeScript library that converts numbers into words in Indonesian. This library is highly useful for applications that require a textual representation of numbers, such as financial reporting, check writing systems, and more.
 
 ## Features
 
@@ -13,7 +13,7 @@
 You can install this library via npm:
 
 ```bash
-npm install terbilang-ts
+npm install angka-terbilang-ts
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ Here is a basic example of how to use this library in a TypeScript project:
 ### TypeScript
 
 ```typescript
-import toWords from 'terbilang-ts';
+import toWords from 'angka-terbilang-ts';
 
 const number = 1234;
 console.log(toWords(number)); // Output: "seribu dua ratus tiga puluh empat"
@@ -35,7 +35,7 @@ console.log(toWords(decimalNumber)); // Output: "seribu dua ratus tiga puluh emp
 ### JavaScript
 
 ```javascript
-const toWords = require('terbilang-ts').default;
+const toWords = require('angka-terbilang-ts').default;
 
 const number = 1234;
 console.log(toWords(number)); // Output: "seribu dua ratus tiga puluh empat"
@@ -125,7 +125,7 @@ describe('toWords', () => {
 
 ## Contribution
 
-Contributions are welcome! If you have suggestions, bug reports, or new features to add, please open an issue or pull request on the [GitHub repository](https://github.com/liu-purnomo/terbilang-ts).
+Contributions are welcome! If you have suggestions, bug reports, or new features to add, please open an issue or pull request on the [GitHub repository](https://github.com/liu-purnomo/angka-terbilang-ts).
 
 ## License
 
@@ -133,7 +133,7 @@ This project is licensed under the ISC License. See the [LICENSE](./LICENSE) fil
 
 ## Repository
 
-- **Repository:** [https://github.com/liu-purnomo/terbilang-ts](https://github.com/liu-purnomo/terbilang-ts)
-- **Bugs:** [https://github.com/liu-purnomo/terbilang-ts/issues](https://github.com/liu-purnomo/terbilang-ts/issues)
-- **Homepage:** [https://github.com/liu-purnomo/terbilang-ts#readme](https://github.com/liu-purnomo/terbilang-ts#readme)
+- **Repository:** [https://github.com/liu-purnomo/angka-terbilang-ts](https://github.com/liu-purnomo/angka-terbilang-ts)
+- **Bugs:** [https://github.com/liu-purnomo/angka-terbilang-ts/issues](https://github.com/liu-purnomo/angka-terbilang-ts/issues)
+- **Homepage:** [https://github.com/liu-purnomo/angka-terbilang-ts#readme](https://github.com/liu-purnomo/angka-terbilang-ts#readme)
 - **Author:** [liupurnomo.com](https://liupurnomo.com)

@@ -1,6 +1,6 @@
 {
-  "name": "terbilang-ts",
-  "version": "1.0.0",
+  "name": "angka-terbilang-ts",
+  "version": "1.5.0",
   "description": "A TypeScript library to convert numbers into words. Useful for generating human-readable text from numerical values.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/liu-purnomo/terbilang-ts.git"
+    "url": "git+ssh://git@github.com/liu-purnomo/angka-terbilang-ts.git"
   },
   "keywords": [
     "terbilang",
@@ -22,9 +22,9 @@
   "author": "liupurnomo.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liu-purnomo/terbilang-ts/issues"
+    "url": "https://github.com/liu-purnomo/angka-terbilang-ts/issues"
   },
-  "homepage": "https://github.com/liu-purnomo/terbilang-ts#readme",
+  "homepage": "https://github.com/liu-purnomo/angka-terbilang-ts#readme",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.14.7",
