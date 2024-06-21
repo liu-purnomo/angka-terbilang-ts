@@ -1,4 +1,4 @@
-# Terbilang-TS - Indonesian Number to Words Converter
+#  Angka-Terbilang-TS - Indonesian Number to Words Converter
 
 `angka-terbilang-ts` is a TypeScript library that converts numbers into words in Indonesian. This library is highly useful for applications that require a textual representation of numbers, such as financial reporting, check writing systems, and more.
 
